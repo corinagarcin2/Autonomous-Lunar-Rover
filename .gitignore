@@ -1,0 +1,14 @@
+# Don't upload virtual environments
+.venv/
+.venv-1/
+venv/
+
+# Don't upload Python temporary files
+__pycache__/
+*.pyc
+
+# Don't upload VS Code settings
+.vscode/
+
+# Windows temporary files
+Thumbs.db

@@ -9,7 +9,7 @@ excavates regolith, transports material, and autonomously constructs a berm.
 
 ## Key Features
 
-- 🧭 A* autonomous path planning
+- 🧭 Autonomous A Navigation
 - 🌑 Procedurally generated lunar terrain
 - 🪨 Randomized rocks and craters
 - 📡 Simulated hazard detection
